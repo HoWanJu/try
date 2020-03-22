@@ -1,0 +1,1 @@
+void minus(char *x,char *y);

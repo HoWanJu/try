@@ -1,0 +1,1 @@
+void divide(char *x,char *y);

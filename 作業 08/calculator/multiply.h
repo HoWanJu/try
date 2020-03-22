@@ -1,0 +1,1 @@
+void  multiply(char *x,char *y);

@@ -1,0 +1,1 @@
+void plus(char *x,char *y);
